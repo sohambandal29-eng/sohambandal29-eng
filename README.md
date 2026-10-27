@@ -4,12 +4,10 @@
 
 🚀 Passionate about Software Development, Python, Web Development, and Artificial Intelligence.
 
-📧 Email Me: sohambandal29@gmail.com
-
 - 🎓 Pursuing B.Tech in Computer Science & Engineering
 - 🌱 Learning Python, Data Structures & Algorithms, and AI/ML
 - 💻 Interested in Full-Stack Development
-- 🤝 Open to collaboration on interesting projects
+- 🤝 Open to collaborating on interesting projects
 - 📍 Maharashtra, India
 
 ---
@@ -17,7 +15,7 @@
 📈 My GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/sohambandal29-eng" alt="GitHub contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea44f/sohambandal29-eng" alt="Soham's GitHub contribution graph" width="100%" />
 </p>---
 
 🛠️ Tech Stack
@@ -28,11 +26,11 @@
 
 🚀 Featured Projects
 
-- 🌾 AI-Based Farmer Query Support & Advisory System
-- 📄 Report Management System
-- 🏥 Scan2Care — Smart Patient Registration
-- 📋 Task Management System
-- 🧾 Inventory Management & Billing System
+- 🌾 AI-Based Farmer Query Support & Advisory System — AI-powered agricultural assistance.
+- 📄 Report Management System — A website for creating and managing reports.
+- 🏥 Scan2Care — Smart patient registration and document processing.
+- 📋 Task Management System — Organize and track tasks.
+- 🧾 Inventory Management & Billing System — Inventory and billing management.
 
 ---
 
@@ -45,27 +43,29 @@
 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohambandal29-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohambandal29-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" width="95%" />
 </p>---
 
 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sohambandal29-eng&theme=tokyonight&hide_border=true" alt="Contribution streak" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=sohambandal29-eng&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="95%" />
 </p>---
 
 🏆 GitHub Trophies
 
-🏆 "Explore My GitHub Profile" (https://github.com/sohambandal29-eng)
-
----
+<p align="center">
+  <a href="https://github.com/sohambandal29-eng">
+    🏆 Explore My GitHub Profile
+  </a>
+</p>---
 
 🌐 Connect With Me
 
-📧 Email: sohambandal29@gmail.com@gmail.com
-
-💻 GitHub: "@sohambandal29-eng" (https://github.com/sohambandal29-eng)
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/soham-bandal-546b22286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>---
 
 💡 Keep Learning. Keep Building. Keep Growing! 🚀
