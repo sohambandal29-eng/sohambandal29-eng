@@ -62,7 +62,7 @@
 
 🌐 Connect With Me
 
-📧 Email: "sohambandal29@gmail.com@gmail.com" (mailto: sohambandal29@gmail.com@gmail.com)
+📧 Email: sohambandal29@gmail.com@gmail.com
 
 💻 GitHub: "@sohambandal29-eng" (https://github.com/sohambandal29-eng)
 
