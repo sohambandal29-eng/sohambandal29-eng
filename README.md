@@ -4,7 +4,7 @@
 
 🚀 Passionate about Software Development, Python, Web Development, and Artificial Intelligence.
 
-📧 Email Me: "sohambandal29@gmail.com" (mailto:sohambandal29@gmail.com)
+📧 Email Me: sohambandal29@gmail.com
 
 - 🎓 Pursuing B.Tech in Computer Science & Engineering
 - 🌱 Learning Python, Data Structures & Algorithms, and AI/ML
