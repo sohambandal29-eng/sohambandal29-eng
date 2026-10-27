@@ -30,18 +30,18 @@
 
 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohambandal29-eng&show_icons=true&theme=tokyonight" width="100%" />
-</p>💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api?username=sohambandal29-eng&show_icons=true&theme=tokyonight&hide_border=true" width="95%" />
+>💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohambandal29-eng&layout=compact&theme=tokyonight" />
 </p>🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohambandal29-eng&theme=tokyonight" width="100%" />
-</p>🏆 GitHub Trophies
+🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohambandal29-eng&theme=tokyonight&margin-w=8" width="95%" />
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sohambandal29-eng&theme=tokyonight&row=1&column=6" width="100%" />
 </p>---
